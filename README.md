@@ -1,5 +1,8 @@
-# Pairpro branch by Rikito Takahashi
-main ブランチとは全く関係ありません。
+# Commonsense inference (Multiple-choice QA)
+自然言語処理で使われる学習モデルを勉強するために書いたもの
+常識推論のタスク（４択問題）を解くためのモデルを実装した
+- MLPベースのモデル
+- BERTベースのモデル
 
 ## Files
 ```
