@@ -20,3 +20,15 @@
    |- train_bert.py
    |- test_bert.py
 ```
+
+## Requirements
+Python 3.8 以上
+
+## Installation
+[Poetry](https://python-poetry.org/) での環境構築を推奨
+
+```
+$ git clone git@github.com:rik-tak/commonsence_inference.git
+$ cd commonsence_inference
+$ poetry install
+```
