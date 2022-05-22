@@ -1,4 +1,6 @@
 # Commonsense inference (Multiple-choice QA)
+[京都大学常識推論データセット(KUCI)](https://nlp.ist.i.kyoto-u.ac.jp/?KUCI) を解くAIプログラム
+
 自然言語処理で使われる学習モデルを勉強するために書いたもの
 
 常識推論のタスク（４択問題）を解くためのモデルを実装した
